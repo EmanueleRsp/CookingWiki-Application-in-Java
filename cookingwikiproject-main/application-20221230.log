@@ -1,0 +1,6 @@
+2022-12-30 11:29:18.738 [Thread-5] ERROR it.emacompany.cookingwiki.LoginController - Server irraggiungibile:
+Connection refused: connect
+2022-12-30 11:29:27.313 [Thread-7] ERROR it.emacompany.cookingwiki.LoginController - Server irraggiungibile:
+Connection refused: connect
+2022-12-30 11:29:34.717 [Thread-8] ERROR it.emacompany.cookingwiki.LoginController - Server irraggiungibile:
+Connection refused: connect

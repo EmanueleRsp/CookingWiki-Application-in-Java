@@ -1,0 +1,27 @@
+.grid{
+    -fx-background-image: url("../it/emacompany/cookingwiki/img/Wallpaper.jpg");
+    -fx-background-size: cover;
+}
+
+.inputBox{
+    -fx-background-color: #E5F1E9;
+    -fx-background-radius: 20;
+}
+
+.textField {
+    -fx-background-color: #a9a9a9 , #E5F1E9 , #E5F1E9;
+    -fx-background-insets: 0,0 0 2 0, 0 0 3 0, 0 0 4 0;
+}
+
+.textField:focused {
+    -fx-background-color: #a9a9a9 , #E9F3EE , #E9F3EE;
+    -fx-background-insets: 0,0 0 1 0, 0 0 2 0, 0 0 3 0;
+}
+
+.inputName, .quest, .link{
+    -fx-text-fill: #1E8570;
+}
+
+.inputName, .quest{
+    -fx-font-weight: 700;
+}

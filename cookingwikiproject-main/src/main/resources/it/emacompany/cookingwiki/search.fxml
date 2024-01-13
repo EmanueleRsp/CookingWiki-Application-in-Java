@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.geometry.Insets?>
+
+<GridPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" styleClass="grid" stylesheets="@../../../styles/home.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.emacompany.cookingwiki.SearchController">
+   <children>
+      <BorderPane fx:id="borderPane" maxHeight="1.7976931348623157E308" prefHeight="700.0" GridPane.columnSpan="25" GridPane.halignment="RIGHT" GridPane.valignment="TOP">
+         <center>
+            <ScrollPane fx:id="scrollPane" fitToHeight="true" fitToWidth="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" styleClass="white" BorderPane.alignment="TOP_CENTER">
+               <content>
+                  <VBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" styleClass="backBox" stylesheets="@../../../styles/home.css">
+                     <children>
+                        <VBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" style="-fx-background-color: white;">
+                           <children>
+                              <VBox alignment="CENTER_LEFT" maxHeight="-Infinity" maxWidth="1.7976931348623157E308">
+                                 <children>
+                                    <HBox alignment="CENTER_RIGHT" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                                       <children>
+                                          <Label styleClass="subParagText" text="Ricette visualizzate per volta: " />
+                                          <ComboBox fx:id="numPag" prefHeight="31.0" prefWidth="67.0" promptText="2" stylesheets="@../../../styles/comboBox.css" />
+                                       </children>
+                                    </HBox>
+                                    <Label fx:id="caption" text="Risultati della ricerca per: " textFill="#006b59" wrapText="true">
+                                       <font>
+                                          <Font size="33.0" />
+                                       </font>
+                                    </Label>
+                                    <Label fx:id="titolo" text="Label" textFill="#006b59" wrapText="true">
+                                       <font>
+                                          <Font name="Lucida Sans Demibold" size="45.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets left="90.0" right="90.0" />
+                                 </VBox.margin>
+                              </VBox>
+                              <VBox fx:id="contenitore" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" prefWidth="1100.0" spacing="20.0">
+                                 <VBox.margin>
+                                    <Insets bottom="40.0" top="40.0" />
+                                 </VBox.margin>
+                              </VBox>
+                              <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                                 <children>
+                                    <Button fx:id="chargeButton" mnemonicParsing="false" onAction="#charge" styleClass="upButton" stylesheets="@../../../styles/button.css" text="Visualizza più ricette">
+                                       <cursor>
+                                          <Cursor fx:constant="HAND" />
+                                       </cursor>
+                                       <font>
+                                          <Font size="25.0" />
+                                       </font>
+                                       <padding>
+                                          <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                                       </padding>
+                                    </Button>
+                                 </children>
+                              </HBox>
+                              <VBox fx:id="termine" alignment="CENTER" visible="false">
+                                 <children>
+                                    <Label text="Ricette terminate!">
+                                       <font>
+                                          <Font name="Lucida Sans Demibold" size="50.0" />
+                                       </font>
+                                    </Label>
+                                    <Label alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="75.0" prefWidth="492.0" text="Se manca una ricetta che ti piace, inseriscila tu tramite il menu a destra :)" textAlignment="CENTER" wrapText="true">
+                                       <font>
+                                          <Font name="Lucida Sans Regular" size="20.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets bottom="40.0" />
+                                 </VBox.margin>
+                              </VBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="60.0" top="60.0" />
+                           </padding>
+                           <VBox.margin>
+                              <Insets bottom="50.0" left="50.0" right="50.0" top="50.0" />
+                           </VBox.margin>
+                        </VBox>
+                     </children>
+                  </VBox>
+               </content>
+               <stylesheets>
+                  <URL value="@../../../styles/home.css" />
+                  <URL value="@../../../styles/scrollPane.css" />
+               </stylesheets>
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+            </ScrollPane>
+         </center>
+      </BorderPane>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="1.7976931348623157E308" minWidth="10.0" percentWidth="10.83" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="33.33" minWidth="10.0" percentWidth="1.667" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" percentWidth="5.0" prefWidth="100.0" />
+      <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="1.7976931348623157E308" minWidth="10.0" percentWidth="10.83" prefWidth="100.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" percentHeight="100.0" valignment="CENTER" vgrow="ALWAYS" />
+   </rowConstraints>
+</GridPane>

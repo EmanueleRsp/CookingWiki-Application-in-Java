@@ -1,0 +1,14 @@
+.attentionBox{
+    -fx-background-color: #BAF295;
+    -fx-background-radius: 20;
+}
+
+.attentionLabel{
+    -fx-text-fill: #092100;
+}
+
+.attentionTitle{
+    -fx-text-fill: #092100;
+    -fx-font-weight: 700;
+}
+
