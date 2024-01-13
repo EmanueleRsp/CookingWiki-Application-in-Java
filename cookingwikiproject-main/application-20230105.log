@@ -1,0 +1,356 @@
+2023-01-05 11:35:22.377 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 11:35:22.389 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 11:35:22.390 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 11:35:22.417 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 12:02:02.310 [Thread-31] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 12:02:02.325 [Thread-31] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 12:02:02.326 [Thread-31] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 12:02:02.349 [Thread-31] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 12:02:02.936 [Thread-31] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Utente non trovato.
+2023-01-05 12:02:06.104 [Thread-32] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 12:02:06.106 [Thread-32] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 12:02:06.107 [Thread-32] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 12:02:06.107 [Thread-32] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 12:02:06.162 [Thread-32] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Utente non trovato.
+2023-01-05 15:46:05.828 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Creazione database...
+2023-01-05 15:46:07.341 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 15:52:54.786 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Creazione database...
+2023-01-05 15:52:56.296 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 15:52:56.296 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:14:15.913 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Creazione database...
+2023-01-05 16:14:17.439 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:14:17.440 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:15:04.803 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Creazione database...
+2023-01-05 16:15:06.334 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:15:06.334 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:15:06.345 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - database popolato!
+2023-01-05 16:28:57.070 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:28:57.075 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:29:44.996 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:29:45.000 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:33:10.226 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:33:10.231 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:34:55.360 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:34:55.366 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:34:55.551 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:34:55.593 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:34:55.632 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:34:55.664 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:34:55.692 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:34:55.692 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - database popolato!
+2023-01-05 16:43:24.495 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:43:24.502 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:43:24.628 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:43:24.662 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:43:24.696 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:43:24.731 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:43:24.763 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:44:50.367 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:44:50.371 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:44:50.549 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:44:50.591 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:44:50.638 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:44:50.676 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:44:50.713 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:48:18.338 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:48:18.342 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:48:18.515 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:48:18.555 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:48:18.586 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:48:18.614 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:48:18.643 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:49:44.455 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:49:44.460 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:49:44.649 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:49:44.687 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:49:44.721 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:49:44.753 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:49:44.786 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.131 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:56:48.135 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:56:48.272 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.305 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.341 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.375 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.408 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:56:48.457 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:52.383 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 16:57:52.388 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 16:57:52.508 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:57:52.539 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:57:52.571 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:57:52.603 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:57:52.641 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 16:57:52.691 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:52.761 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:52.824 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:52.882 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:52.935 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.026 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.091 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.129 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.160 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.214 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.253 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.299 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.325 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.359 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.397 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.425 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.452 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.496 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.531 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.558 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.583 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.635 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.672 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.703 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.727 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.762 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.801 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.837 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:53.866 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:53.908 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:53.961 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:53.988 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:54.010 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:54.039 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:54.068 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:54.096 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:54.121 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:54.153 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:54.188 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:54.220 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:54.244 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:54.263 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:54.280 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:54.297 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:54.315 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 16:57:54.357 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 16:57:54.390 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 16:57:54.419 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 16:57:54.420 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:04:51.021 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:04:51.107 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Duplicate entry 'admin' for key 'utente.PRIMARY'
+2023-01-05 17:04:51.107 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:04:51.115 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Duplicate entry 'emanuele' for key 'utente.PRIMARY'
+2023-01-05 17:04:51.115 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:04:51.147 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Duplicate entry 'CR7' for key 'utente.PRIMARY'
+2023-01-05 17:04:51.147 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:04:51.163 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Duplicate entry 'Messi' for key 'utente.PRIMARY'
+2023-01-05 17:04:51.163 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:04:51.178 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Duplicate entry 'Gordon_Ramsey' for key 'utente.PRIMARY'
+2023-01-05 17:04:51.178 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:04:51.194 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.210 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.233 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.242 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.257 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.273 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.289 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.304 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.333 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.336 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.352 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.367 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.383 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.399 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.414 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.434 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.446 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.461 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.477 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.508 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.524 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.540 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.556 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.571 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.587 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.603 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.634 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.650 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.665 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.681 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.697 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.712 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.735 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.744 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.760 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.775 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.807 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.827 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.838 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.854 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.869 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.885 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.900 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.916 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.935 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:04:51.948 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:04:51.967 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:04:51.982 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:04:51.982 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:05:07.569 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 17:05:09.840 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:05:09.873 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:05:09.901 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:05:09.921 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:05:09.937 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:05:09.961 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:05:09.993 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.033 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.073 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.097 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.121 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.145 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.188 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.209 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.231 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.264 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.289 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.319 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.339 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.373 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.402 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.422 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.438 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.474 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.502 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.524 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.545 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.570 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.608 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.640 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.665 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.689 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.723 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.753 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.784 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.819 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.852 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.869 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.884 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:10.910 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:10.937 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:10.962 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:10.980 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:11.011 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:11.042 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:11.067 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:11.082 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:11.099 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:11.117 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:11.133 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:11.153 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 1
+2023-01-05 17:05:11.193 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 2
+2023-01-05 17:05:11.218 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - 3
+2023-01-05 17:05:11.244 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:05:11.244 [Thread-6] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:07:00.440 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 17:07:00.447 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:07:00.607 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:07:00.652 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:07:00.692 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:07:00.728 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:07:00.771 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:07:00.970 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.146 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.338 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.471 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.623 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.746 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.864 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:01.989 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:02.101 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:02.219 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:02.306 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:02.416 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:07:02.416 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:09:39.226 [Thread-4] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 17:09:40.198 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:09:40.272 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:09:40.289 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:09:40.306 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:09:40.324 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:09:40.342 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Utente inserito!
+2023-01-05 17:09:40.450 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.546 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.648 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.732 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.822 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.906 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:40.993 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.093 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.191 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.291 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.365 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.464 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Ricetta inserita!
+2023-01-05 17:09:41.465 [Thread-5] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:14:07.433 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 17:14:07.436 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 17:14:07.436 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 17:14:07.468 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 17:17:48.851 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:17:48.963 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Unknown database 'cookingwiki'
+2023-01-05 17:17:48.991 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Unknown database 'cookingwiki'
+2023-01-05 17:17:49.019 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Unknown database 'cookingwiki'
+2023-01-05 17:17:49.045 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Unknown database 'cookingwiki'
+2023-01-05 17:17:49.076 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Errore nel recupero dati da db: Unknown database 'cookingwiki'
+2023-01-05 17:17:49.984 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 17:25:54.275 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 17:25:54.280 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 17:25:56.198 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 19:26:23.116 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 19:26:23.121 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 19:26:25.164 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 19:26:44.974 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:26:44.977 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:26:44.977 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:26:44.993 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:26:45.500 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:26:51.125 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:26:51.126 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:26:51.126 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:26:51.126 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:26:51.161 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:26:58.866 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:26:58.866 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:26:58.866 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:26:58.866 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:26:58.896 [Thread-6] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:27:07.895 [Thread-7] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:27:07.896 [Thread-7] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:27:07.896 [Thread-7] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:27:07.896 [Thread-7] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:27:07.930 [Thread-7] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:34:05.538 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 19:34:05.544 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 19:34:06.953 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 19:34:17.025 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:34:17.026 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:34:17.027 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:34:17.040 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:34:17.081 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:34:23.590 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:34:23.591 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:34:23.591 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:34:23.591 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:34:23.623 [Thread-5] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: OK
+2023-01-05 19:37:51.610 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database creato!
+2023-01-05 19:37:51.614 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Popolamento database...
+2023-01-05 19:37:53.165 [Thread-3] DEBUG it.emacompany.cookingwiki.DBManager - Database popolato!
+2023-01-05 19:38:00.902 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:38:00.903 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:38:00.903 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:38:00.914 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:38:00.948 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: OK
+2023-01-05 19:39:19.428 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:39:19.437 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:39:19.437 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:39:19.455 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:39:19.489 [Thread-3] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: Password incorretta.
+2023-01-05 19:39:24.344 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing della password...
+2023-01-05 19:39:24.345 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Hashing effettuato.
+2023-01-05 19:39:24.345 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Connessione al servizio...
+2023-01-05 19:39:24.346 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Attesa risposta...
+2023-01-05 19:39:24.377 [Thread-4] DEBUG it.emacompany.cookingwiki.LoginController - Risposta ricevuta: OK
