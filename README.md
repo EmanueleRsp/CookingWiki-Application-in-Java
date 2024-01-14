@@ -57,4 +57,4 @@ The project was evaluated with a **score of 30/30 with honours**.
 
 The professor specially appreciated the **quality of the code** and the **large number of features** implemented in the application. He also appreciated the **creativity** and the **effort** put into the project.
 
-The only negative notes were the **lack of documentation** and the **file organization**, because the source files are contained in the same directory and it's not easy to manage them in this case.
+The only negative notes were the **lack of documentation** and the **file organization**, because the source files are contained in the same directory and so it's not easy to manage them.
