@@ -47,7 +47,7 @@ String password = "root";
 ```
 So, the application will use a database called `cookingWiki` and will try to connect to it using the default port `3306` with the user `root` and the password `root`. If you want to change these parameters, you can do it in the code.
 
-Finally, you need to can **import** the two projects _zip folders_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
+Finally, you need to can **clone** the two projects folders and **add** them as _zip files_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
 
 ---
 
