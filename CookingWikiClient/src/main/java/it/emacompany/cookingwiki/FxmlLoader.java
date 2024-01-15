@@ -21,6 +21,7 @@ public class FxmlLoader {
             
         }catch(Exception e){
             logger.warn(e.getMessage());
+            return null;
         }
         
         return view;

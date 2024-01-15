@@ -1,6 +1,8 @@
 package it.emacompany.cookingwiki;
 
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FilenameFilter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -11,6 +13,7 @@ import javafx.application.Platform;
 import javafx.concurrent.Task;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.Parent;
 import javafx.scene.control.Button;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.Label;
@@ -62,7 +65,7 @@ public class LoginController implements Initializable{
     public void initialize(URL location, ResourceBundle resources){
         resultBox.setManaged(false);
         escBox.setManaged(false);
-        escBox1.setManaged(false);
+        escBox1.setManaged(false);                
         
     }
     

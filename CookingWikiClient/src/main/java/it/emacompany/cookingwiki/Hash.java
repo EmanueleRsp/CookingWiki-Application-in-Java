@@ -10,7 +10,6 @@ public class Hash {
     public static String getHashedPsw(String psw) throws NoSuchAlgorithmException{
         
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
-        
         return translate(digest.digest(psw.getBytes(StandardCharsets.UTF_8)));
     }
     
