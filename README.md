@@ -7,6 +7,7 @@ The project consists in the creation of a **distributed Java application** that 
   - [How to run the application](#how-to-run-the-application)
   - [Final evaluation and comments](#final-evaluation-and-comments)
 
+For any ussue or question, please don't hesitate to contact me!
 
 ## Documentation
 
@@ -47,7 +48,6 @@ String password = "root";
 So, the application will use a database called `cookingWiki` and will try to connect to it using the default port `3306` with the user `root` and the password `root`. If you want to change these parameters, you can do it in the code.
 
 Finally, **import** the two client and server _zip files_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
-
 
 ## Final evaluation and comments
 
