@@ -7,7 +7,6 @@ The project consists in the creation of a **distributed Java application** that 
   - [How to run the application](#how-to-run-the-application)
   - [Final evaluation and comments](#final-evaluation-and-comments)
 
----
 
 ## Documentation
 
@@ -17,7 +16,6 @@ The main documentation of the project is available [here](/docs/Presentazione.pd
 
 If you want to check the **assignment** for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
 
----
 
 ## Project structure
 
@@ -28,9 +26,10 @@ The project is structured in the following way:
 - **`zip/`** folder containing the two projects in zip format;  
 - **`README.md`** the file you are reading right now :).
 
----
 
 ## How to run the application
+
+You can download the latest zip file released from [here](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/releases). It includes both client and server zip files.
 
 The application uses a DBMS MySQL database to store data, so you need to **install** it on your machine if you don't have it yet. You can find the installation guide [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/).
 
@@ -47,9 +46,8 @@ String password = "root";
 ```
 So, the application will use a database called `cookingWiki` and will try to connect to it using the default port `3306` with the user `root` and the password `root`. If you want to change these parameters, you can do it in the code.
 
-Finally, you need to can **clone** the two projects folders and **add** them as _zip files_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
+Finally, **import** the two client and server _zip files_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
 
----
 
 ## Final evaluation and comments
 
