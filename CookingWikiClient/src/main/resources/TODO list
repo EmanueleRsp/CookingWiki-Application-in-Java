@@ -1,0 +1,22 @@
+Da fare:
+
+PULSANTI INIZIALIZZAZIONE E RESET DB DA SCHERMATA DI LOGIN.
+
+DUE UNIT TESTS.
+
+IMPLEMENTARE ALMENO UNA LST VIEW E UN MENU' A SCOMPARSA PER ELIMINARE L'ELEMENTO.
+
+Errore sporadico in fase di analisi credenziali (quando si torna al login?).
+
+HomeController:
+    initialize() -> Implementare connessione con db e caricamento anteprima ricette.
+                    Probabilmente occorre creare fxml a parte e caricarlo nella funzione.
+    searchByCategoryTask(String category) -> Implementare connessione con db e caricamento pagina 'search' con info per la ricerca (category).
+
+MenuController:
+    searchByCategoryTask()
+    searchLastRecipes()
+
+RecipeController:
+    initialize() -> Inizializzare tutti gli elementi della ricetta.
+    Aggiungere funzionalità che permetta l'aggiunta di ingredienti nella checklist.
