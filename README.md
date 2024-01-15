@@ -20,8 +20,8 @@ If you want to check the **assignment** for the project, you can find them in th
 ## Project structure
 
 The project is structured in the following way:
-- **`cookingwikiproject-main/`** client application folder;
-- **`cookingwikiserver-main/`** server application folder; 
+- **`CookingWikiClient/`** client application folder;
+- **`CookingWikiServer/`** server application folder; 
 - **`docs/`** folder containing the documentation of the project;
 - **`zip/`** folder containing the two projects in zip format;  
 - **`README.md`** the file you are reading right now :).
