@@ -33,11 +33,11 @@ The project is structured in the following way:
 
 ## How to run the application
 
-You can download the latest zip file released from [here](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/releases). It includes both client and server zip files.
+You can download the latest zip file released from [here](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/releases).
 
-The application uses a DBMS MySQL database to store data, so you need to **install** it on your machine if you don't have it yet. You can find the installation guide [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/).
+The release includes both client and server _zip files_: **import** them in your favourite IDE (such as _Apache NetBeans IDE_).
 
-Then, the project database connection is configured as follows:
+The application uses a DBMS MySQL database to store data, so you need to **install** it on your machine if you don't have it yet. You can find the installation guide [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/). The project **database connection** is configured as follows:
 ```java
 
 // Database connection parameters
@@ -48,9 +48,9 @@ String username = "root";
 String password = "root";
 
 ```
-So, the application will use a database called `cookingWiki` and will try to connect to it using the default port `3306` with the user `root` and the password `root`. If you want to change these parameters, you can do it in the code.
+The application will use a database called `cookingWiki` and will try to connect to it using the default port `3306` with the user `root` and the password `root`. If you want to change these parameters, you can do it in the code.
 
-Finally, **import** the two client and server _zip files_ in your favourite IDE (such as _Apache NetBeans IDE_) and **run** them: the server first (`cookingWikiServer`), then the client (`cookingWiki`). 
+Finally, you can **run** the two projects: **the server first, then the client**. 
 
 ## Final evaluation and comments
 
