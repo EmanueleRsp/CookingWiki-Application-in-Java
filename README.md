@@ -1,7 +1,7 @@
 # CookingWiki: share and find kitchen recipes - Application backend/frontend development
 
 [![GitHub Release](https://img.shields.io/github/release/EmanueleRsp/CookingWiki-Application-in-Java?style=flat)](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/releases) [![GitHub license](https://img.shields.io/github/license/EmanueleRsp/CookingWiki-Application-in-Java?style=flat)](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/blob/main/LICENSE) 
-[![Stars](https://img.shields.io/github/stars/EmanueleRsp/CookingWiki-Application-in-Java?style=social)](https://github.com/EmanueleRsp/CookingWiki-Application-in-Javastargazers) 
+[![Stars](https://img.shields.io/github/stars/EmanueleRsp/CookingWiki-Application-in-Java?style=social)](https://github.com/EmanueleRsp/CookingWiki-Application-in-Java/stargazers) 
 
 The project consists in the creation of a **distributed Java application** that is composed of a **graphical interface** built with JavaFX and by a **service** through which the application data is managed. Application data is stored in a mySQL DBMS database.
 
